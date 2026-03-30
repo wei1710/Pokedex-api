@@ -1,8 +1,12 @@
 # Pokedex API
 
+Educational API developed for Software Quality subject at Erhvervsakademi København.
+Focuses on software testing studies and quality assurance practices.
+
 ## Setup
 
-`git clone <repo-url>`  
+Git clone the repository
+
 `cd Pokedex-api`
 
 `npm install`
