@@ -25,4 +25,4 @@ Git clone the repository
 `npm run lint`  
 `npm run lint:fix`  
 `npm run format:check`  
-`npm run format`
+`npm run format` 
